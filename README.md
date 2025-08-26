@@ -41,5 +41,11 @@ On my blog [digitalselwyn.com](https://www.digitalselwyn.com), I break down comp
 
 Below is a list of Technologies (mostly open source frameworks, libraries and languages) I regularly use and enjoy working with. If you want to see more what I do or have done, check out my [GitHub](https://github.com/sdavidraj).
 
-**Machine Learning**
+🤖 Machine Learning
 Transformers, PyTorch, Scikit-Learn, Langchain, Llama.
+
+☁️ Cloud
+AWS, GCP, Azure, Kubernetes, Kubeflow, Docker, Terraform, Github Actions, GitOps
+
+🏗️ Non-ML
+Go, Remix/React-Router 7, Next.js, FastAPI, React
